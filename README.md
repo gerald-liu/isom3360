@@ -265,7 +265,7 @@ $$
 \mathbf{w}=\underset{\mathbf{w}}{\operatorname{argmin}}\sum(h_\mathbf{w}(x)-y)^2+\lambda\sum|w|
 $$
 
-**L1 Regularization**: $\lambda$ &uarr;, fitness &uarr;, model complexity &uarr;.
+**L1 Regularization**: $\lambda$ &uarr;, fitness &darr;, model complexity &darr;.
 
 - Penalize models with <u>too many features</u> &rArr; Generate **sparse models**
 - Penalize features with <u>large coefficients</u>
