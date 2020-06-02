@@ -341,3 +341,15 @@ $$
 - Univariate: parallel to y-axis
 - Multivariate: linear but not parallel to y-axis
 
+## Naïve Bayes
+
+## Association Rule Learning
+
+## Distance-based methods
+
+## Ensemble Learning
+
+## Natural Language Processing
+
+## Computer Vision
+
